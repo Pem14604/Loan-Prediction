@@ -2,7 +2,7 @@
 
 Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. 
 
-It is classification problem and in this we have folowwing variables.
+It is classification problem and in this we have following variables.
 
 INDEPENDENT VARIABLE
 Loan_ID               object
